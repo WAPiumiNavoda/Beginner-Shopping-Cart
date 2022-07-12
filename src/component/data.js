@@ -10,7 +10,7 @@ const data = {
            img: img1,
            title:"Pizza 1",
            desc:"",
-           prize: 46
+           price: 46
 
         },
 
@@ -19,7 +19,7 @@ const data = {
             img: img2,
             title:"Pizza 2",
             desc:"",
-            prize: 46
+            price: 46
  
          },
 
@@ -28,7 +28,7 @@ const data = {
             img: img3,
             title:"Pizza 3",
             desc:"",
-            prize: 46
+            price: 46
  
          },
     ],
